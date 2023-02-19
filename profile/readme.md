@@ -5,6 +5,8 @@
 
 Golang libraries and applications for minetest
 
+* Discord server: https://discord.gg/R62Ks7yxUd
+
 # License
 
 * Organization icon: `CC-BY-SA 4.0`
